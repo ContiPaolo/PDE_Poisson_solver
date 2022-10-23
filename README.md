@@ -1,2 +1,2 @@
 # PDE_Poisson_solver
-C++ Project: Implementation of C++ solver for Partial Differential Equations (PDE) with finite difference method.
+Implementation of a C++ solver for Partial Differential Equations (PDE) with finite difference method.
